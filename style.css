@@ -1,0 +1,29 @@
+/* @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+:root{
+    --white: #fff;
+    --light: #eeeded;
+    --orange: #FFA16C;
+
+} */
+.Products{
+    padding-left: 10%;
+    margin: center;
+}
+.cart{
+    padding-right: 10%;
+    margin-top: 10%;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin :auto;
+}
+.fa {
+    font-size: 50px;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  .fa:hover {
+    color: darkblue;
+  }
